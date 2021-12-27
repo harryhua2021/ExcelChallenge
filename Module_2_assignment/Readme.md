@@ -5,10 +5,14 @@ The purpose of this analysis project was to refactor the Module 2 code to collec
 # Result
 
 By comparing the stock’s performance of the year 2017 and 2018, I noticed that in the year 2017 the stocks portfolio had primarily enjoyed high volumes of gain except for “TERP.” In 2018, despite a significant correction that caused losses to all but two stocks, 7 out of the 12 stocks had increased in value compared to 2017.
-
+https://github.com/harryhua2021/ExcelChallenge/blob/f25d7da715d1e1d55fd9556dc172ab4d0878e536/Module_2_assignment/Resources/2017.png
+https://github.com/harryhua2021/ExcelChallenge/blob/f25d7da715d1e1d55fd9556dc172ab4d0878e536/Module_2_assignment/Resources/2018.png
      
 
 It is also noticeable that the runtime to process the code after the refactoring decreased by almost 75% from 0.496 seconds to 0.125 seconds compared to the original code, proving the value of the refactoring effort.
+https://github.com/harryhua2021/ExcelChallenge/blob/f25d7da715d1e1d55fd9556dc172ab4d0878e536/Module_2_assignment/Resources/runtime_2017.png
+https://github.com/harryhua2021/ExcelChallenge/blob/f25d7da715d1e1d55fd9556dc172ab4d0878e536/Module_2_assignment/Resources/runtime_before_2017.png
+
 
      
 
